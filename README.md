@@ -14,7 +14,7 @@ My work focuses on developing reproducible AI solutions, from deep learning mode
 
 ---
 
-## About M
+## About Me
 
 I am a Computer Engineering graduate from **Babol Noshirvani University of Technology** with a growing focus on **AI research and engineering**.
 
